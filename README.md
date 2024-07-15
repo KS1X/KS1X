@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 Oregon, USA<br>🧑‍🎓 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>🎨 I enjoy Making and contributing to resources for FiveM<br>💭 Currently learning about Artificial intelligence and Parallel and distributed computing!
+🌎 Oregon, USA<br>🧑‍🎓 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>🎨 I enjoy creating and contributing to resources for FiveM<br>💭 Currently learning about Artificial intelligence and Parallel and distributed computing!
 
 
 ## 🌐 Socials:
