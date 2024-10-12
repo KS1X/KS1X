@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌎 Oregon, USA<br>🧑‍🎓 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>🎨 I enjoy creating and contributing to resources for FiveM<br>💭 Currently thinking about my dog!
-
+🌎 Oregon, USA<br>🧑‍🎓 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>🎨 I enjoy creating and contributing to resources for FiveM<be>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N3WNvdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KS1X) 
