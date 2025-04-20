@@ -1,5 +1,5 @@
 
-##**Welcome to my Profile**
+**Welcome to my Profile**
 <br>
 + ✍️  Business Intelligence, Data Science, Law<br>
 + 🔰 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>
