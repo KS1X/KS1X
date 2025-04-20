@@ -1,15 +1,8 @@
 
-## **Welcome to my Profile**
+**Welcome to my Profile**
 <br>✍️  Business Intelligence, Data Science, Law<br>
 <br>🔰 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>
 <br>☕️ Founder @bloomhq<br>
-
-## ☕️ Buy me a coffee
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fryr999)
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N3WNvdf) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KS1X) 
 
 ## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
