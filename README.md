@@ -1,9 +1,10 @@
 
-**Welcome to my Profile**
-<br>✍️  Business Intelligence, Data Science, Law<br>
-<br>🔰 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>
-<br>☕️ Founder @bloomhq<br>
-
+##**Welcome to my Profile**
+<br>
++ ✍️  Business Intelligence, Data Science, Law<br>
++ 🔰 [University of Oregon](https://www.youtube.com/watch?v=T4UPeQtfdXg) Graduate<br>
++ ☕️ Founder @bloomhq<be>
+<be>
 ## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
